@@ -1,5 +1,26 @@
-# 💫 About Me:
-🚀 Robotics Engineer specializing in autonomous systems, AUV design, sensor fusion, and ROS integration.<br>💻 Proficient in Python, C, JavaScript, and Linux with hands-on experience in advanced algorithms and path planning.<br>🌊 Developed real-time monitoring and control systems for Autonomous Underwater Vehicles (AUVs), reducing diagnostic time by 25%.<br>🤖 Implemented homing algorithms for precise navigation, cutting errors by 20%, and designed state estimation methods for reliable localization.<br>🔧 Built GUI-based systems using Node.js for streamlined AUV process control and enhanced user interaction.<br>🤖 Created an NLP chatbot for device data retrieval, improving system accessibility by 30%.<br><br>🛠️ Skilled in ROS, Git, and sensor fusion, with a passion for automating workflows and optimizing system reliability.<br><br>🎓 Pursuing a BE in Computer Science with a focus on robotics and autonomous systems.<br><br>🌟 Passionate about solving complex problems, enhancing operational efficiency, and pushing the boundaries of robotics technology.
+# About Me
+
+**Robotics and AI Engineer** with a strong foundation in autonomous systems, AUV design, sensor fusion, and ROS integration.  
+Experienced in designing full-stack systems that merge real-time control with intelligent decision-making.
+
+**Technical Proficiency**  
+Python, C, JavaScript, Linux, ROS, Git, Docker, MongoDB, React, Node.js, Hugging Face Transformers  
+
+**Key Projects & Impact**  
+- Developed real-time monitoring and control systems for Autonomous Underwater Vehicles (AUVs), reducing diagnostic time by 25%.  
+- Designed homing and path planning algorithms that improved navigation accuracy by 20%.  
+- Created a BERT-based underwater object classification model, deployed with a custom NLP classifier.  
+- Built intuitive, GUI-based interfaces for AUV operations and telemetry using modern web stacks.  
+- Developed autonomous AI agents powered by open-source LLMs for task execution, decision-making, and process automation.  
+
+**Background**  
+Completed a BE in Computer Science with a specialization in robotics, embedded systems, and autonomous AI systems.  
+Currently focused on building intelligent, modular systems that combine robotics with LLMs for next-generation autonomy.
+
+**Core Values**  
+Precision. Automation. Innovation.  
+Driven by curiosity and a mission to solve complex problems through smart, adaptive systems.
+
 
 
 ## 🌐 Socials:
