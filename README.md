@@ -10,11 +10,7 @@ Python, C, JavaScript, Linux, ROS, Git, Docker, MongoDB, React, Node.js, Hugging
 - Developed real-time monitoring and control systems for Autonomous Underwater Vehicles (AUVs), reducing diagnostic time by 25%. ([GitHub Repo](https://github.com/srinathvv-dev/AUVision))  
 - Created a BERT-based underwater object classification model, deployed with a custom NLP classifier. ([GitHub Repo](https://github.com/srinathvv-dev/Underwater-Object-Classification-using-LLM))  
 - Developed autonomous AI agents powered by open-source LLMs for task execution, decision-making, and process automation. ([GitHub Repo](https://github.com/srinathvv-dev/Multi-Agent-LLM-System-for-Terminal-Scientific-Analysis))  
-- Built an end-to-end biologging ML pipeline for whale motion classification:  
-  - Extracted time-domain features from 3D accelerometer data  
-  - Trained classifiers to detect fluke strokes in swimming whales  
-  - Visualized movement, model predictions, and behavioral transitions  
-  - Fully reproducible setup with notebooks, code, results, and README for direct usage ([GitHub Repo](https://github.com/srinathvv-dev/Biologging-Whale-Motion-Analysis))
+- Built an end-to-end biologging ML pipeline for whale motion classification. ([GitHub Repo](https://github.com/srinathvv-dev/Biologging-Whale-Motion-Analysis))
 
 **Background**  
 Completed a BE in Computer Science with a specialization in robotics, embedded systems, and autonomous AI systems.  
