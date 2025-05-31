@@ -7,11 +7,9 @@ Experienced in designing full-stack systems that merge real-time control with in
 Python, C, JavaScript, Linux, ROS, Git, Docker, MongoDB, React, Node.js, Hugging Face Transformers  
 
 **Key Projects & Impact**  
-- Developed real-time monitoring and control systems for Autonomous Underwater Vehicles (AUVs), reducing diagnostic time by 25%.  
-- Designed homing and path planning algorithms that improved navigation accuracy by 20%.  
-- Created a BERT-based underwater object classification model, deployed with a custom NLP classifier.  
-- Built intuitive, GUI-based interfaces for AUV operations and telemetry using modern web stacks.  
-- Developed autonomous AI agents powered by open-source LLMs for task execution, decision-making, and process automation.  
+- Developed real-time monitoring and control systems for Autonomous Underwater Vehicles (AUVs), reducing diagnostic time by 25%. ([GitHub Repo]([[https://github.com/srinathvv-dev/Underwater-Object-Classification-using-LLM](https://github.com/srinathvv-dev/AUVision)))).  
+- Created a BERT-based underwater object classification model, deployed with a custom NLP classifier. ([GitHub Repo]([https://github.com/srinathvv-dev/Underwater-Object-Classification-using-LLM))). 
+- Developed autonomous AI agents powered by open-source LLMs for task execution, decision-making, and process automation. ([GitHub Repo]([https://github.com/srinathvv-dev/Biologging-Whale-Motion-Analysis](https://github.com/srinathvv-dev/Multi-Agent-LLM-System-for-Terminal-Scientific-Analysis))).  
 - Built an end-to-end biologging ML pipeline for whale motion classification:  
   - Extracted time-domain features from 3D accelerometer data.  
   - Trained classifiers to detect fluke strokes in swimming whales.  
